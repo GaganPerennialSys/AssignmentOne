@@ -35,5 +35,3 @@ Download the code and run in xcode
 - From the top right click on that button to add todo
 - click on todo to update the details
 - swipe to delete todo
-
-Please update this and correct mistakes
